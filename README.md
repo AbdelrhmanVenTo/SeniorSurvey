@@ -1,5 +1,5 @@
 # SeniorSurvey
-App for Senior Steps - IT training center , for all event in center to make add visitor and sumbit question feedback for event <br/>
+App for Senior Steps - IT training center , for all event in center to make add visitor and submit question feedback for event <br/>
 used in app : <br />
 1 - Recyclerview <br />
 2 - Material dialog <br />
