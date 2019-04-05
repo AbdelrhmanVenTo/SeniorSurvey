@@ -5,6 +5,7 @@ used in app : <br />
 2 - Material dialog <br />
 3 - Web service <br />
 4 - youtube api <br/>
+5 - Android Architecture (MVVM) <br/>
 ScreenShot : <br/>
 ![Login](https://user-images.githubusercontent.com/12888482/55634382-b2ff7680-57be-11e9-8598-bca2ce661c2c.jpg)
 ![CoursesList](https://user-images.githubusercontent.com/12888482/55634401-bbf04800-57be-11e9-98fd-c9a6d91d0e53.jpg)
