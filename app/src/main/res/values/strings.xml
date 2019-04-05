@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SeniorSurvey</string>
+    <string name="senior_step">Senior Step</string>
+    <string name="survey">Survey</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="success">Success</string>
+    <string name="username_or_email">UserName or Email</string>
+    <string name="next">Next</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="fail">Fail</string>
+    <string name="ok">OK</string>
+    <string name="try_again">Try Again</string>
+    <string name="required">Required</string>
+    <string name="min_6_chars">Password Length Should Be 6 Chars</string>
+    <string name="not_valid">Not Valid</string>
+    <string name="error">Error</string>
+    <string name="user_name_or_password_not_valid">User Name or password not valid</string>
+    <string name="no_data">No Data Coming</string>
+    <string name="youtube_api_key">AIzaSyD6jFK4iYb07WeqHShd3UetfNEObEVSD5I</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="failed_to_add_visitor">Failed to add visitor</string>
+    <string name="visior_added">Visitor added successfully</string>
+    <string name="submit">Submit</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
